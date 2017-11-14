@@ -1,0 +1,88 @@
+html, body {
+	height: 100%;
+}
+
+.container-fluid{
+	min-height: 100%;
+	background: url("../img/landing.jpg");
+	background-size: cover;
+	background-position: center;
+	background-repeat: none;
+
+}
+.fa-arrow-down{
+	font-size: 40px;
+}
+
+a{
+	color: #e9e6c2;
+}
+a:hover{
+	font-size: 45px;
+	color: #e9e6c2;
+}
+
+#landingContent{
+	text-align: center;
+	padding-top: 25%;
+	text-shadow: 0px 4px 3px rgba(0,0,0,0.4),
+				 0px 8px 13px rgba(0,0,0,0.1),
+				 0px 18px 23px rgba(0,0,0,0.1);
+	color: #e9e6c2;
+	letter-spacing: 2px;
+}
+
+.caption{
+	text-align: center;
+	letter-spacing: 2px;
+	line-height: 200%;
+
+}
+#lineLanding{
+	width: 30%;
+}
+.gallery{
+	padding-top: 50px;
+}
+.image{
+	width: 100%;
+	height: 250px;
+	background-size: cover;
+	background-position: center center;
+}
+.image1{
+	background-image: url(https://media.cntraveler.com/photos/58a46e2f9b67416638b3bf82/master/w_775,c_limit/eleven-madison-park-Honey-Lavender-Roasted-Duck-with-Apricot-and-Fennel-cr-courtesy.jpg);
+}
+.image2{
+	background-image: url(https://i.imgur.com/O3Uiz2s.gif);
+}
+.image3{
+	background-image: url(https://cdn.shopify.com/s/files/1/1072/5654/products/Red_Wing_Iron_Ranger_Boots_8111.jpg?v=1449331747);
+}
+.image4{
+	background-image: url(https://theultralinx.com/.image/c_limit%2Ccs_srgb%2Cq_80%2Cw_600/MTUxMzY3OTMwNTAyNzg0ODQ2/tumblr_nyj8iwus8h1qkegsbo1_1280.webp);
+}
+.image5{
+	background-image: url(https://lh3.googleusercontent.com/-k1ppIWH3pJY/VcLzOO1eVAI/AAAAAAAACpE/yIN_T9z_mP4/w1200-h800/9028846f2f72aa58710818c3f173c700cbe07982.jpeg);
+}
+.image6{
+	background-image: url(https://theultralinx.com/.image/c_limit%2Ccs_srgb%2Cq_80%2Cw_960/MTUwNzE4MzMxNzMxNTg0Njcz/yosh-ginsu-146177.webp);
+}
+.image7{
+	background-image: url(http://static.djbooth.net/pics-features/chance-the-rapper-art.jpg);
+}
+.image8{
+	background-image: url(https://theultralinx.com/.image/c_limit%2Ccs_srgb%2Cq_80%2Cw_564/MTQ2NjU4MDEwMzEwMTkwOTcx/tumblr_o4rosudf6a1qkegsbo1_1280.webp);
+}
+.image9{
+	background-image: url(https://torontolife.com/wp-content/uploads/2009/04/top-ten-restaurants-2009-toronto-eigensinn.jpg);
+}
+.image10{
+	background-image: url(https://images.pexels.com/photos/450035/pexels-photo-450035.jpeg?w=1260&h=750&auto=compress&cs=tinysrgb);
+}
+.image11{
+	background-image: url(https://theultralinx.com/.image/c_limit%2Ccs_srgb%2Cq_80%2Cw_540/MTQ0NTQ3MTA1Mjg4MDM3NDc0/tumblr_ojzf0s4ipf1qkegsbo1_540.webp);
+}
+.image12{
+	background-image: url(http://www.cbc.ca/stevenandchris/content/images/vietnamese-beef-pho.jpg);
+}
